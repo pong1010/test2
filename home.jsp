@@ -4,14 +4,20 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>Home dfsdffasdfasdf테스트</title>
+
+	<title>Home 서혁hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh호</title>
+
+	<title>312</title>
+
 </head>
 <body>
-<h1>hhhhhhhhhhhhhhhhhdfsa
+<h1>312
 </h1>
 
 <h2>
- 깨진거 수정했음 브런치 테4332323232332
+
+312213123213
+
 </h2>
 <div>
 테이블gfasdgdfsgdsfgsdfgdsfgdsf
