@@ -5,10 +5,14 @@
 <html>
 <head>
 
+<<<<<<< HEAD
 
 	<title>Home 서혁푸푸푸풒푸푸푸푸풒푸호</title>
 <title>Home 푸쉬푸쉬</title>
 
+=======
+	<title>Home 푸쉬푸쉬bbbbbbbbbbbbbbbbbbbbbbbb</title>
+>>>>>>> tjgurgh
 
 	<title>312</title>
 
