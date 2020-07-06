@@ -5,21 +5,7 @@
 <html>
 <head>
 
-<<<<<<< HEAD
-
-	<title>Home 서혁푸푸푸풒푸푸푸푸풒푸호</title>
-<title>Home 푸쉬푸쉬</title>
-
-=======
-	<title>Home 푸쉬푸쉬bbbbbbbbbbbbbbbbbbbbbbbb</title>
->>>>>>> tjgurgh
-
-	<title>312</title>
-
-	<title>Home 서혁호 fsadfasfsdafasdfsdafsadhhhhhhhhhhhhhfasdfasdf테스트</title>
-
-	<title>Home dfsdffasdfasdf테스트</title>
-
+	<title>325 테스트</title>
 
 </head>
 <body>
@@ -28,10 +14,7 @@
 
 <h2>
 
-
 312213123213
-
- 깨진거 수정했음 브런치 테
 
 </h2>
 <div>
