@@ -4,7 +4,7 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>올리고 내리고 PULL 후 다시 커밋</title>
+	<title>다시 커밋</title>
 </head>
 <body>
 <h1>
@@ -24,5 +24,7 @@
 </h2>
 
 <P>  The time on the server is ${serverTime}. </P>
+<p>테스트</p>
+작업 테스트
 </body>
 </html>
