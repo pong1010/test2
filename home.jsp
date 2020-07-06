@@ -5,12 +5,10 @@
 <html>
 <head>
 
-<<<<<<< .merge_file_a08516
 
 	<title>Home 서혁hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh호</title>
-=======
-	<title>Home 푸쉬푸쉬</title>
->>>>>>> .merge_file_a06660
+<title>Home 푸쉬푸쉬</title>
+
 
 	<title>312</title>
 
