@@ -4,14 +4,22 @@
 <%@ page session="false" %>
 <html>
 <head>
+
 	<title>Home 서혁호 fsadfasfsdafasdfsdafsadhhhhhhhhhhhhhfasdfasdf테스트</title>
+
+	<title>Home dfsdffasdfasdf테스트</title>
+
 </head>
 <body>
 <h1>hhhhhhhhhhhhhhhhhdfsa
 </h1>
 
 <h2>
+
  깨진거 수정했음 브런치 테
+
+ 깨진거 수정했음 브런치 테4332323232332
+
 </h2>
 <div>
 테이블gfasdgdfsgdsfgsdfgdsfgdsf
