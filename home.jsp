@@ -4,7 +4,7 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>Home</title>
+	<title>Home tstsetsetstsetst</title>
 </head>
 <body>
 <h1>
@@ -12,7 +12,7 @@
 </h1>
 
 <h2>
- 깨진거 수정했음
+ 깨진거 수정했음setsetsesetsetset
 </h2>
 <div>
 테이블
