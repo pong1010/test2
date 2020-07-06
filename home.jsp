@@ -4,31 +4,24 @@
 <%@ page session="false" %>
 <html>
 <head>
-
-	<title>325 테스트</title>
-
+	<title>브런치 병합합니당</title>
 </head>
 <body>
-<h1>312
+<h1>
+	Hello world!  
 </h1>
 
 <h2>
-
-312213123213
-
+ 깨진거 수정했음 브런치 테스트
 </h2>
 <div>
-테이블gfasdgdfsgdsfgsdfgdsfgdsf
+테이블
 </div>
 
 
 <h2>
 	두번추가
 </h2>
-
-
-<h3>나도 테스트
-</h3>
 
 <P>  The time on the server is ${serverTime}. </P>
 </body>
