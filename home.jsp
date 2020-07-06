@@ -4,7 +4,7 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>Home</title>
+	<title>다시 커밋</title>
 </head>
 <body>
 <h1>
@@ -12,7 +12,7 @@
 </h1>
 
 <h2>
- 깨진거 수정했음
+ 깨진거 수정했음 브런치 테스트
 </h2>
 <div>
 테이블
@@ -24,9 +24,13 @@
 </h2>
 
 
+
 <h3>나도 테스트
 </h3>
 
+
 <P>  The time on the server is ${serverTime}. </P>
+<p>테스트</p>
+작업 테스트
 </body>
 </html>
