@@ -4,7 +4,7 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>브런치 병합합니당</title>
+	<title>올리고 내리고</title>
 </head>
 <body>
 <h1>
