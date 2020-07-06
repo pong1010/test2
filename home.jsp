@@ -4,7 +4,7 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>올리고 내리고</title>
+	<title>올리고 내리고 PULL 후 다시 커밋</title>
 </head>
 <body>
 <h1>
