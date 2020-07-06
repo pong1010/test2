@@ -4,18 +4,17 @@
 <%@ page session="false" %>
 <html>
 <head>
-	<title>Home 서혁호 fsadfasfsdafasdfsdafsadfasdfasdf테스트</title>
+	<title>Home 서혁호 fsadfasfsdafasdfsdafsadhhhhhhhhhhhhhfasdfasdf테스트</title>
 </head>
 <body>
-<h1>
-	Hello world!  fsafasfsadfasfsadfasdfsadfsa
+<h1>hhhhhhhhhhhhhhhhhdfsa
 </h1>
 
 <h2>
- 깨진거 수정했음 브런치 테스트fsadfsdfsadfasdfasdsaf
+ 깨진거 수정했음 브런치 테
 </h2>
 <div>
-테이블
+테이블gfasdgdfsgdsfgsdfgdsfgdsf
 </div>
 
 
